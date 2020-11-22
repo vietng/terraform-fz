@@ -1,4 +1,4 @@
-## Terraform project to provision FamilyZone environment
+## Terraform project to provision a sample environment
 
 ### AMI
 AMI is based on Ubuntu 20.04 LTS.
